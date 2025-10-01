@@ -1,6 +1,6 @@
 import PreviousWorks from './PreviousWorks';
 import ProfileSkills from './ProfileSkills';
-import { works } from '../data/nolan';
+import { works } from '../data/oscar';
 import { skills } from '../data/skills';
 
 import '../styles/App.css';

@@ -1,8 +1,8 @@
 {
-  "name": "nolan",
+  "name": "oscar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://starmastar1126.github.io/nolan",
+  "homepage": "https://starmastar1126.github.io/oscar",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
