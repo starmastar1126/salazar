@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nolan/static/css/main.e649e959.css",
-    "main.js": "/nolan/static/js/main.f703b3ee.js",
-    "static/js/787.ccdcc681.chunk.js": "/nolan/static/js/787.ccdcc681.chunk.js",
-    "index.html": "/nolan/index.html",
-    "main.e649e959.css.map": "/nolan/static/css/main.e649e959.css.map",
-    "main.f703b3ee.js.map": "/nolan/static/js/main.f703b3ee.js.map",
-    "787.ccdcc681.chunk.js.map": "/nolan/static/js/787.ccdcc681.chunk.js.map"
+    "main.css": "/oscar/static/css/main.e649e959.css",
+    "main.js": "/oscar/static/js/main.b82efdeb.js",
+    "static/js/787.20632ca0.chunk.js": "/oscar/static/js/787.20632ca0.chunk.js",
+    "index.html": "/oscar/index.html",
+    "main.e649e959.css.map": "/oscar/static/css/main.e649e959.css.map",
+    "main.b82efdeb.js.map": "/oscar/static/js/main.b82efdeb.js.map",
+    "787.20632ca0.chunk.js.map": "/oscar/static/js/787.20632ca0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e649e959.css",
-    "static/js/main.f703b3ee.js"
+    "static/js/main.b82efdeb.js"
   ]
 }
